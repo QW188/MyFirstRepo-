@@ -1,4 +1,3 @@
 
-console.log("Hello World");
+console.log("HI caused a merge conflict"");
 
-console.log("I caused a merge conflict");
