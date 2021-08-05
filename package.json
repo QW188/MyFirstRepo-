@@ -1,0 +1,22 @@
+{
+  "name": "myfirstrepo-",
+  "version": "1.0.0",
+  "description": "Testing repository using GIT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QW188/MyFirstRepo-.git"
+  },
+  "keywords": [
+    "best"
+  ],
+  "author": "cassie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/QW188/MyFirstRepo-/issues"
+  },
+  "homepage": "https://github.com/QW188/MyFirstRepo-#readme"
+}
