@@ -1,3 +1,3 @@
 
-console.log("HI caused a merge conflict"");
+console.log("HI caused a merge conflict");
 
